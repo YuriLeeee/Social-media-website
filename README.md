@@ -1,2 +1,2 @@
 # Social-media-website
-# Social media app, built with Django
+Social media app, built with Django
